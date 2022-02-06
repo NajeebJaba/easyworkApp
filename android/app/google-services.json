@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861056393817",
+    "project_id": "movix-19a66",
+    "storage_bucket": "movix-19a66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861056393817:android:0386c77be47c82d2b64748",
+        "android_client_info": {
+          "package_name": "com.easywork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861056393817-rbvo2i5shdqkleu8eqj1p2qvkrf2l8e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaDxQGj33SVXe4OjT1MQKZncL9WA3Udck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861056393817-rbvo2i5shdqkleu8eqj1p2qvkrf2l8e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

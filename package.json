@@ -1,0 +1,55 @@
+{
+  "name": "easywork",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-native-firebase/app": "^12.0.0",
+    "@react-native-firebase/firestore": "^12.0.0",
+    "@react-native-picker/picker": "^1.16.1",
+    "react": "17.0.2",
+    "react-native": "^0.64.0",
+    "react-native-elements": "^3.4.1",
+    "react-native-loading-spinner-overlay": "^2.0.0",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-vector-icons": "^8.1.0",
+    "react-redux": "^7.2.4",
+    "redux": "^4.1.0",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-react": "^7.23.2",
+    "eslint-plugin-react-native": "^3.10.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.66.0",
+    "prettier": "^2.2.1",
+    "react-test-renderer": "17.0.2"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "checkSubmission": {
+    "ex": "finalproject",
+    "students": [
+      {
+        "id": "3186565470",
+        "fullName": "Najeeb Jabareen",
+        "email": "najeebshj@hotmail.com"
+      }
+    ],
+    "os": "win32",
+    "device": "Android",
+    "submissionDate": "01/13/2022",
+    "delay": false
+  }
+}
